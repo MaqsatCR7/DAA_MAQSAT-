@@ -1,9 +1,7 @@
 # Assignment 3. Maze Escape
 
-Student ID: [YOUR_ID]
-Name: [YOUR NAME]
-Group: [YOUR GROUP]
-Maze size (rows x columns): [R x C]
+Name: Nauanuly Maksat
+Group: SE-2512
 
 ## How I did it
 
