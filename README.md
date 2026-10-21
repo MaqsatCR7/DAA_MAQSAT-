@@ -18,19 +18,19 @@ The maze is a graph: a cell is a vertex, a wall is an edge. I did the project mi
 
 The 13 lines of `java -cp out Main` on my data:
 
-    Broken: [..]
-    Kept: [..]
-    Last broken wall: [..]
-    MST cost: [..]
-    Heaviest broken wall: [..]
-    Path length: [..]
-    DFS visited: [..]
-    Dead ends: [..]
-    Zones: [..]
-    Largest zone: [..]
-    Is DAG: [..]
-    Flow stages: [..]
-    Fastest route cost: [..]
+    Broken
+    Kept
+    Last broken wall
+    MST cost
+    Heaviest broken wall
+    Path length
+    DFS visite
+    Dead ends
+    Zones
+    Largest zone
+    Is DAG
+    Flow stages
+    Fastest route cost
 
 My maze:
 
