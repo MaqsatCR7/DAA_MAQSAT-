@@ -65,6 +65,9 @@ I used Claude (Anthropic) as a helper: to explain the ideas of DSU, Kruskal, Pri
 
 Milliseconds, 5 runs each, from `java -cp out Bench`.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d69fa9ca-92ac-4c3c-9fe4-00015ebe20e6" />
+
+
 | maze | Kruskal | Prim |
 |---|---|---|
 | 100 x 100 | 13 | 13 |
