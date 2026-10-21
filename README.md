@@ -67,9 +67,9 @@ Milliseconds, 5 runs each, from `java -cp out Bench`.
 
 | maze | Kruskal | Prim |
 |---|---|---|
-| 100 x 100 | [..] | [..] |
-| 300 x 300 | [..] | [..] |
-| 1000 x 1000 | [..] | [..] |
+| 100 x 100 | 13 | 13 |
+| 300 x 300 | 89 | 94 |
+| 1000 x 1000 | 1319 | 2024 |
 
 The number of cells grows 9 times from 100x100 to 300x300 and 11 times from 300x300 to 1000x1000, and the time grows roughly in the same way, a bit faster than linear. This fits O(m log m): the number of walls m is about 2 times the number of cells, and the sorting or the priority queue adds the log factor. [Write here what your own numbers show.]
 
