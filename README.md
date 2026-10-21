@@ -34,7 +34,8 @@ The 13 lines of `java -cp out Main` on my data:
 
 My maze:
 
-![maze](output/maze.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cc04bbb8-4858-4ce5-b047-7b37c27f8b1f" />
+
 
 ## Questions
 
